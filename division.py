@@ -4,6 +4,7 @@
 Created on Sun May  7 12:05:35 2017
 
 @author: joe
+visioned by Ale
 """
 
 import pandas as pd
